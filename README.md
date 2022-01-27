@@ -1,6 +1,9 @@
-# machine-learning
-Machine learning projects.
+# Machine Learning Projects
 
+## Description
+
+  This repository includes machine learning notebooks (Colab and Jupyter).
+  
 - Linear Regression
 - Logical Regression
 - KNN
